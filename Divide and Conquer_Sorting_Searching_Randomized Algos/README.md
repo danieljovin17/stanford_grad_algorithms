@@ -9,3 +9,7 @@ A divide-and-conquer algorithm to sort a list of numbers, and count the number o
 # Quick Sort with O(1) Extra Space Complexity
 
 An algorithm that employs both a divide-and-conquer approach and a randomized approach to sort a list of numbers in O(lg n) expected time.
+
+# Random Contraction
+
+A randomized algorithm that outputs a solution to the min cut graph problem given an undirected graph in O(V^2) time.
